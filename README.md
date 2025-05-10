@@ -44,13 +44,13 @@ This is a **full-stack clone** of the popular vacation rental website **Airbnb**
 ├── init/                 # Frontend (React)
 │   ├── data.js/
 │   └── index.js/
-├── server/                 # Backend (Express)
-│   ├── controllers/
-│   ├── models/
-│   └── routes/
-├── .gitignore
-├── README.md
-└── package.json
+├── models/                 # Backend (Express)
+│   ├── listing.js/
+├── node modules/
+├── package.json
+├── app.js
+├── package-lock.json
+└── README.md
 ```
 
 ---
